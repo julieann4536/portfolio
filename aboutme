@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1><p class="sansserif">Julie Herrick</p> </h1>
+<style>
+
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#D685DA   ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: #C742CD  ;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><p class="sansserif"><a class="active" href="#home">Home</a></p></li>
+  <li><p class="sansserif"><a href="#about">About</a></p></li>
+  <li><p class="sansserif"><a href="#Projects">Projects</a></p></li>
+  <li><p class="sansserif"><a href="#Resume">Resume</a></p></li>
+  <li><p class="sansserif"><a href="#Contact">Contact</a><p/></li>
+</ul>
+
+</body>
+</html>
+
+<body>
+<html>
+<div>
+<p> </p>
+<img src="https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg" alt= "dog running with ball in its mouth" style="width:500px;height:300px;">
+</div>
+
+<p>Hi, my name is Julie Herrick and I am a senior at Highland Park High School in Dallas, Texas. I have been playing saxophone in the band for 7 years. I am a woodwind captain for the 2017-2018 school year. I have played the bagpipes for 4 years and been the pipe major of our bagpipe corps since 2016. </p>
+
+<h3>Likes and Dislikes</h3>
+<p> Likes </p>
+<pre> - Animals
+ - Music </pre>
+
+</body>
+</html>
