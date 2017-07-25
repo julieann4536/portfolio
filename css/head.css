@@ -6,7 +6,7 @@ body {
       }
 
       .logo_image {
-        background-image: url("../lightpurple.jpg");
+        background-image: url("../purple.jpg");
         height: 30%;
         width: 100%;
         /*position absolute*/
@@ -49,9 +49,9 @@ body {
           margin-top: 10%;
           padding: 0px;
           padding-left: 25%;
-          overflow: hidden;
+          overflow: visible;
           background-color: #364a57;
-          height: 75px;
+          height: 86px;
           align-items: center;
           border-top: 6px solid white;
           border-bottom: 6px solid white;
@@ -62,7 +62,7 @@ body {
       li {
           float: left;
           margin-bottom: 40px;
-          margin-top: -50px;
+          margin-top: -42px;
           margin-right: 53px;
       }
 
@@ -84,7 +84,7 @@ body {
         padding-top: 30px;
         font-family:  Charcoal, sans-serif;
         font-size: 30px;
-        margin-top: -38px;
+        margin-top: -30px;
         font-weight: lighter;
 
       }
@@ -97,5 +97,13 @@ body {
       .turtle {
         display: flex;
         justify-content: center;
-
+        padding-top: 4%;
+        padding-bottom: 2%;
       }
+
+      .logo_image    {
+        padding-top: 4%;
+        padding-right: 1%;
+        padding-bottom: 6%;
+        padding-left: 1%;
+                }
